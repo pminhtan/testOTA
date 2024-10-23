@@ -1,1 +1,4 @@
-https://raw.githubusercontent.com/pminhtan/testOTA/main/32.icl
+https://raw.githubusercontent.com/pminhtan/testOTA/main/DWIN_SET/13TouchFile.bin
+https://raw.githubusercontent.com/pminhtan/testOTA/main/DWIN_SET/14ShowFile.bin
+https://raw.githubusercontent.com/pminhtan/testOTA/main/DWIN_SET/22_Config.bin
+https://raw.githubusercontent.com/pminhtan/testOTA/main/DWIN_SET/32.icl
