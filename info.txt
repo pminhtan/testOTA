@@ -1,6 +1,1 @@
-https://raw.githubusercontent.com/pminhtan/testOTA/main/DWIN_SET_1/13TouchFile.bin
-https://raw.githubusercontent.com/pminhtan/testOTA/main/DWIN_SET_1/14ShowFile.bin
-https://raw.githubusercontent.com/pminhtan/testOTA/main/DWIN_SET_1/22_Config.bin
-https://raw.githubusercontent.com/pminhtan/testOTA/main/DWIN_SET_1/32.icl
-https://raw.githubusercontent.com/pminhtan/testOTA/main/DWIN_SET_1/55.icl
-https://raw.githubusercontent.com/pminhtan/testOTA/main/DWIN_SET_1/56.icl
+http://App.IoTVision.vn/Assets/UpdateFirmware/KingTubeAuto.bin
